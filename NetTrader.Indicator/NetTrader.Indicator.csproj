@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <ProjectGuid>{D9F6B967-34DA-4DB1-8DF8-1B7CE92906D0}</ProjectGuid>
+    <Company />
+    <Authors>Anil Caliskan</Authors>
+    <PackageId>NetTrader.Indicator</PackageId>
+    <RepositoryUrl>https://github.com/anilca/NetTrader.Indicator</RepositoryUrl>
+    <PackageTags>dotNet Standard 2.0 Finance Formulas Banking Bonds Corporate Markets Stocks Indicator TechnicalAnalysis Trade FinancialMarkets TechnicalIndicators C#</PackageTags>
+    <AssemblyVersion>1.0.0.5</AssemblyVersion>
+    <FileVersion>1.0.0.5</FileVersion>
+    <Version>1.0.5</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="LumenWorksCsvReader" Version="4.0.0" />
+  </ItemGroup>
+</Project>
